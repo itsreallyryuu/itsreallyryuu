@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 It's me, Ryuu</h1>
 <p align="center">
-  <i>Fullstack Developer • Dark Mode Enthusiast • Learning by Building</i>
+  <i>Fullstack Developer • Always Learning • Building Real Projects</i>
 </p>
 
 <p align="center">
@@ -11,19 +11,16 @@
 
 ## 🧑‍💻 About Me
 
-Hi, aku **Ryuu** —  
-bisa dipanggil **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu** (semuanya sah 😼)
+Hi, I'm **Ryuu** —  
+you can call me **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu** (all of them work 😼)
 
-- 🔥 Fullstack dev (project pribadi mostly fullstack)
-- 🧠 Lumayan paham: **Laravel (PHP), JavaScript, Python**
-- 🌱 Lagi belajar: **Java, C++, C#**
-- 🌙 Suka dark theme & ngoding malam
-- 🤖 Pakai AI buat bantu? **Yes, and I'm proud of it.**
-- ⏳ Waktu terbatas, jadi belajar yang penting & kepake
+- 🔥 Fullstack developer
+- 🧠 Fairly experienced with **Laravel (PHP), JavaScript, and Python**
+- 🌱 Currently learning **Java, C++, and C#**
+- ⏳ Limited time, so I focus on learning what actually matters and is useful
 
 > 💬 **Quote:**  
-> _"ISI QUOTE KAMU DI SINI"_  
-> <!-- kamu bebas ganti jadi quotes favorit kamu -->
+> 
 
 ---
 
@@ -42,19 +39,6 @@ bisa dipanggil **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu** (semuanya sah 😼)
 
 ---
 
-## 🚀 Featured Projects
-<!-- ISI SENDIRI NANTI YA -->
-
-- 🔗 **Project Name**  
-  _Short description here_
-
-- 🔗 **Project Name**  
-  _Short description here_
-
-> (Repo bisa kamu pin dari GitHub juga)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,15 +51,6 @@ bisa dipanggil **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu** (semuanya sah 😼)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsreallyryuu&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🎴 Extra
-
-<!-- GANTI LINK GIF / GAMBAR SENDIRI -->
-<p align="center">
-  <img src="LINK_GIF_ANIME_KAMU_DI_SINI" width="400"/>
 </p>
 
 ---
