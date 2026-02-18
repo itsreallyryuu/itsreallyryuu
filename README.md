@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 It's me, Ryuu</h1>
+<h1 align="center">Hey It's me, Ryuu</h1>
 <p align="center">
   <i>Fullstack Developer • Always Learning • Building Real Projects</i>
 </p>
@@ -9,18 +9,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 Hi, I'm **Ryuu** —  
-you can call me **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu** (all of them work 😼)
+you can call me **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu**
 
-- 🔥 Fullstack developer
-- 🧠 Fairly experienced with **Laravel (PHP), JavaScript, and Python**
-- 🌱 Currently learning **Java, C++, and C#**
-- ⏳ Limited time, so I focus on learning what actually matters and is useful
+- Fullstack developer
+- Fairly experienced with **Laravel (PHP), JavaScript, and Python**
+- Currently learning **Java, C++, and C#**
+- Limited time, so I focus on learning what actually matters and is useful
 
 > 💬 **Quote:**  
-> 
+> “Progress matters more than speed.”
 
 ---
 
