@@ -39,22 +39,6 @@ you can call me **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsreallyryuu&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsreallyryuu&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsreallyryuu&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 GitHub: https://github.com/itsreallyryuu
