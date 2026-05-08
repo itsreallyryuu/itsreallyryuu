@@ -1,4 +1,4 @@
-<h1 align="center">Hey It's me, Ryuu</h1>
+<h1 align="center">Hey It's me, Adann</h1>
 <p align="center">
   <i>Fullstack Developer • Always Learning • Building Real Projects</i>
 </p>
@@ -11,8 +11,8 @@
 
 ##  About Me
 
-Hi, I'm **Ryuu** —  
-you can call me **itsreallyryuu / Ryuudev / Ryuu-san / Ryuu**
+Hi, I'm **Adann** —  
+you can call me **itsreallyadann/ Adanndev /  Adann**
 
 - Fullstack developer
 - Fairly experienced with **Laravel (PHP), JavaScript, and Python**
